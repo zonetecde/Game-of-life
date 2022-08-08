@@ -1,7 +1,7 @@
 # Game-of-life
 Reproduction du célèbre jeu de Conway's
 
-<i>Le code source du logiciel a été perdu et est actuellement dans un disque dur HS. Je compte, plus grand, récupérer ses données dans un centre de récupération de données.</i>
+<i>Le code source du logiciel a été perdu et est actuellement dans un disque dur HS. </i>
 
 Des modèles sont déjà disponibles dans le menu droit.
 
